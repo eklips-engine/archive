@@ -1,0 +1,1 @@
+; Mp recieve string (soon)

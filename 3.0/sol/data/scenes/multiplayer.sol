@@ -1,0 +1,2 @@
+@PrebuiltSceneProperties
+options=mint1/CheckCode_mint2/HostCode_showc/ShowConsole_hidec/HideConsole

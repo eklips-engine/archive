@@ -1,0 +1,102 @@
+{
+ "Id": 1,
+ "Empty": 1,
+ "Account": {
+  "LoggedIn": 0,
+  "UUID": 0,
+  "Server": "FULLY OFFLINE",
+  "offline_achievements": {}
+ },
+ "GameData": {
+    "Projects": {
+        "1": "eklips",
+        "2": "E:/Code/Eklips/Terrestrial/terre"
+    }
+ },
+ "Settings": {
+  "private": {
+   "Font": "eklips/font/ren.otf",
+   "Size": 0.75,
+   "SupportsAlpha": 1,
+   "UpdateScript": "UpdateGame"
+  },
+  "region": {
+   "server": "eu",
+   "language": "en_US"
+  },
+
+  "display": {
+   "res": [1280,720],
+   "layering": 1,
+   "addbstd": 1,
+   "FUNMODE": 0
+  },
+  
+  "performance": {
+   "quality": 1,
+   "prlx": 0,
+   "bg": 0,
+   "fx": 0,
+   "Framerate": 60
+  },
+  
+  "load": {
+   "splash": "",
+   "noload": 0,
+   "loadskip": 0,
+   "showtips": 0,
+   "lddelay": 2
+  },
+  
+  "volume": {
+   "menuvolume": 100,
+   "mastervolume": 100,
+   "gamevolume": 100,
+   "musicvolume": 100
+  },
+  
+  "game": {
+   "zoom": 1,
+   "pacing": 1
+  },
+  
+  "keys": {
+   "keyup": {
+    "key": "w",
+    "holdable": 1
+   },
+   "keyleft":  {
+    "key": "a",
+    "holdable": 1
+   },
+   "keyright":  {
+    "key": "d",
+    "holdable": 1
+   },
+   "keycheats":  {
+    "key": "`",
+    "holdable": 0
+   },
+   "keypause":  {
+    "key": "escape",
+    "holdable": 0
+   },
+   "keyinteract":  {
+    "key": "e",
+    "holdable": 0
+   },
+   "keyplace":  {
+    "key": "p",
+    "holdable": 1
+   },
+   "keyscreenshot":  {
+    "key": "]",
+    "holdable": 0
+   },
+   "keycrouch":  {
+    "key": "left ctrl",
+    "holdable": 0
+   }
+  }
+ }
+}

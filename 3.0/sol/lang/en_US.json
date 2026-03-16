@@ -1,0 +1,115 @@
+{
+ "Config": {
+  "Name": "English (America)",
+  "LTR": 1,
+  "Font": "en"
+ },
+ 
+ "Location": {
+  "us": "America",
+  "eu": "Europe",
+  "af": "Africa",
+  "as": "Asia",
+  "au": "Australia",
+  "nz": "New Zealand",
+  
+  "nr": "North",
+  "st": "South",
+  "ea": "East",
+  "we": "West"
+ },
+ 
+ "content": {
+  "load": "Loading..",
+  "notice": "...",
+  
+  "chkey": "Change the 'OPTK' keybind?",
+  
+  "nvm": "Nevermind",
+  
+  "back": "Back",
+  "exit": "Exit",
+  
+  "yes": "Yes",
+  "no": "No",
+  "abort": "Abort",
+  "cancel": "Cancel",
+  
+  "err": "Error",
+  "errmult": "Multiplayer Error",
+  
+  "mng": "New Game",
+  "mcg": "Continue",
+  "msg": "Save Game",
+  "mslg": "Save/Load Game",
+  "mlg'": "Load Game",
+  "mpg": "Play GM",
+  "mpt": "Play Tutorial",
+  "mpd": "Difficulty",
+  "mpd1": "Easy",
+  "mpd2": "Normal",
+  "mpd3": "Hard",
+  "mpd4": "Tough",
+  "mint": "Multiplayer",
+  "mstg": "Settings",
+  "mexit": "Quit",
+  "munk": "Unknown Page",
+  "mint1": "Join a server",
+  "mint2": "Host a server",
+  "mint1.1": "Join a server",
+  "mrefresh": "Refresh",
+  "mempty": "There are no servers available.",
+  
+  "Sol_err": "An error occured! The traceback is:\n\n",
+  "Sol_crh": "More details",
+  
+  "munk1": "This page is unavailable. Click the back button to leave.",
+  "mexit1": "Are you sure you want to leave?\nAll unsaved levels will be gone!",
+  
+  "showc": "Show Console",
+  "hidec": "Hide Console",
+  
+  "opt": {
+   "fps": "Max FPS",
+   "reset_confirm": "Are you sure you want to reset your save?\nAll data, settings, achievements will be gone!",
+   "reset": "Reset Save",
+   "brightness": "Brightness",
+   "bright_dem": "Adjust your brightness to your\nliking by using the picture above.",
+   "language": "Language",
+   "server": "Server (Region)",
+   "quality": "Quality",
+   "bg": "Background",
+   "prlx": "Parallax",
+   "fx": "Effects",
+   "noload": "Only load when needed",
+   "loadskip": "Skip loading cutscene",
+   "showtips": "Show tips when loading",
+   "lddelay": "Load delay (s)",
+   "pacing": "Game pacing",
+   "zoom": "Zoom",
+   "keyup": "Jump",
+   "keydown": "Down",
+   "keycheats": "Open Console",
+   "keyleft": "Left",
+   "keyright": "Right",
+   "keypause": "Pause",
+   "keyplace": "Place",
+   "keyinteract": "Interact",
+   "menuvolume": "Main Menu",
+   "mastervolume": "Master",
+   "gamevolume": "Game",
+   "musicvolume": "Music"
+  },
+  
+  "opt-cat": {
+   "keys": "Keybinds",
+   "game": "Gameplay",
+   "load": "Loading",
+   "peformance": "Performance",
+   "region": "Region",
+   "volume": "Volume"
+  },
+  
+  "tip1": "Replace Tip in SDK."
+ }
+}

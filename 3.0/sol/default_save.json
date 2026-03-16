@@ -1,0 +1,54 @@
+{
+ "Id": 1,
+ "Empty": 1,
+ "Account": {
+  "LoggedIn": 0,
+  "UUID": 0,
+  "Server": "sol.solengine.com",
+  "offline_achievements": {}
+ },
+ "Settings": {
+  "region": {
+   "server": "eu",
+   "language": "en_US"
+  },
+  
+  "peformance": {
+   "quality": 1,
+   "prlx": 0,
+   "bg": 0,
+   "fx": 0,
+   "fps": 60
+  },
+  
+  "load": {
+   "noload": 0,
+   "loadskip": 0,
+   "showtips": 0,
+   "lddelay": 2
+  },
+  
+  "volume": {
+   "menuvolume": 100,
+   "mastervolume": 100,
+   "gamevolume": 100,
+   "musicvolume": 100
+  },
+  
+  "game": {
+   "zoom": 1,
+   "pacing": 1
+  },
+  
+  "keys": {
+   "keyup": "w",
+   "keydown": "s",
+   "keyleft": "a",
+   "keyright": "d",
+   "keycheats": "f3",
+   "keypause": "escape",
+   "keyinteract": "e",
+   "keyplace": "p"
+  }
+ }
+}

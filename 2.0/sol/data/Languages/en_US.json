@@ -1,0 +1,21 @@
+{
+ "Config": {
+  "Name": "English (America)",
+  "LTR": 1,
+  "Font": "en"
+ },
+ 
+ "content": {
+  "load": "Loading..",
+  "notice": "Empty.",
+  
+  "back": "Back",
+  
+  "yes": "Yes",
+  "no": "No",
+  "abort": "Abort",
+  "cancel": "Cancel",
+  
+  "tip1": "TOKgame:Localization.enUS.tip1"
+ }
+}

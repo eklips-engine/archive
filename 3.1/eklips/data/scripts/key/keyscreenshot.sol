@@ -1,0 +1,1 @@
+pg.image.save(ux.display, "ScrShot.png")

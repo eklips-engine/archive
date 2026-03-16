@@ -1,0 +1,7 @@
+click.mp3 [Mouse Click]
+gunshot.wav [Gun shot]
+hit.wav [ENT attacks]
+load.mp3 [Game loading]
+ow.wav [ENT gets hurt]
+static.wav [Static noise]
+?? Sound not available

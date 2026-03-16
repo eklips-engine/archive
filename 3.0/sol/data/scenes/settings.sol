@@ -1,0 +1,26 @@
+@Settings
+language=type/list item/lang
+server=type/list item/region
+fps=type/slider min/1 max/260 abovemax/inf
+quality=type/multiplier min/1 max/3
+bg=type/bool
+prlx=type/bool
+fx=type/bool
+noload=type/bool
+loadskip=type/bool
+showtips=type/bool
+lddelay=type/slider min/0 max/2
+pacing=type/multiplier min/1 max/10
+zoom=type/multiplier min/1 max/5
+keyup=type/keylistener
+keydown=type/keylistener
+keyleft=type/keylistener
+keyright=type/keylistener
+keypause=type/keylistener
+keycheats=type/keylistener
+keyinteract=type/keylistener
+keyplace=type/keylistener
+mastervolume=type/slider min/0 max/100
+menuvolume=type/slider min/0 max/100
+gamevolume=type/slider min/0 max/100
+musicvolume=type/slider min/0 max/100

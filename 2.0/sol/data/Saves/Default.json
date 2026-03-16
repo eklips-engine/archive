@@ -1,0 +1,17 @@
+{
+	"Id": 1,
+	"Empty": 1,
+	"Account": {
+		"LoggedIn":0,
+		"UUID":0,
+		"Server":"solredist.example.com"
+	},
+	"Settings": {
+		"language": "en_US",
+		"noload": 0,
+		"loadskip": 0,
+		"quality": 1,
+		"showtips": 1,
+		"lddelay": 2
+	}
+}

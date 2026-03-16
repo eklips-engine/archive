@@ -1,0 +1,1 @@
+Get a copy of FFMpeg and place it in bin/ yourself as Git is being mean
