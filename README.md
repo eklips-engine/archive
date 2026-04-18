@@ -13,4 +13,4 @@ Before 5.0A, i got locked out of my old account, and now Eklips is in this one. 
 
 <hr>
 
-Today, the latest version is 5.0A-build30, it is in [this repository.](https://github.com/ZeeAyZ/Eklips)
+Today, the latest version is 5.0A-build45, it is in [this repository.](https://github.com/eklips-engine/eklips)
